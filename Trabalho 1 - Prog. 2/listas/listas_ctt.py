@@ -1,4 +1,0 @@
-ids = []
-nomes = []
-emails = []
-telefones = []
