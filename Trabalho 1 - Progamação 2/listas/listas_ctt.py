@@ -1,0 +1,4 @@
+ids = []
+nomes = []
+emails = []
+telefones = []
